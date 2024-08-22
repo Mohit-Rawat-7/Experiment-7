@@ -229,15 +229,32 @@ int main()
 
 ```
 # Output
-1.) ![image](https://github.com/user-attachments/assets/1c9d4f35-9433-4bbe-9c7a-0fc7892ac819)
-2.) ![image](https://github.com/user-attachments/assets/ca699330-e0de-470a-aa3d-76d87a8428c0)
-3.) ![image](https://github.com/user-attachments/assets/4bde05ef-54eb-4b8a-900f-e905987ab0ca)
-4.) ![image](https://github.com/user-attachments/assets/f2f4df6a-1cb8-43b0-b02f-bc9283124f5f)
-5.) ![image](https://github.com/user-attachments/assets/f0a593e1-229c-4469-8638-dceb61ad64ae)
-6.) ![image](https://github.com/user-attachments/assets/937d63f5-05b9-467c-aa04-c0037711d2f8)
-7.) ![image](https://github.com/user-attachments/assets/87745879-9995-4a5d-8a9d-f879352b930d)
-8.) ![image](https://github.com/user-attachments/assets/7169c3e3-2955-4752-b1bd-2e9b4a556638)
-9.) ![image](https://github.com/user-attachments/assets/9ed1a243-02fa-4cc5-a069-b14bc8a1872c)
+1.)
+![image](https://github.com/user-attachments/assets/1c9d4f35-9433-4bbe-9c7a-0fc7892ac819)
+
+2.)
+![image](https://github.com/user-attachments/assets/ca699330-e0de-470a-aa3d-76d87a8428c0)
+
+3.)
+![image](https://github.com/user-attachments/assets/4bde05ef-54eb-4b8a-900f-e905987ab0ca)
+
+4.)
+![image](https://github.com/user-attachments/assets/f2f4df6a-1cb8-43b0-b02f-bc9283124f5f)
+
+5.)
+![image](https://github.com/user-attachments/assets/f0a593e1-229c-4469-8638-dceb61ad64ae)
+
+6.)
+![image](https://github.com/user-attachments/assets/937d63f5-05b9-467c-aa04-c0037711d2f8)
+
+7.)
+![image](https://github.com/user-attachments/assets/87745879-9995-4a5d-8a9d-f879352b930d)
+
+8.)
+![image](https://github.com/user-attachments/assets/7169c3e3-2955-4752-b1bd-2e9b4a556638)
+
+9.)
+![image](https://github.com/user-attachments/assets/9ed1a243-02fa-4cc5-a069-b14bc8a1872c)
 
 
 # Conclusion
