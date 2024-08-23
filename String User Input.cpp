@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-    char s[]= "Nandini";
+    char s[]= "Mohit";
     cout<<s<<endl;
     return 0;
 }
